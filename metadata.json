@@ -1,0 +1,11 @@
+{
+  "name": "PelagicWatch",
+  "description": "Marine wildlife conservation platform with AI species and injury triage, interactive sighting and hazard maps, rescue dispatch coordination, and individual animal tracking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
